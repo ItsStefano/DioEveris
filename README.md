@@ -1,2 +1,0 @@
-# DioEveris
-Curso sobre Kotlin
